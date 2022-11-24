@@ -2,7 +2,7 @@
 - 👀 Me gusta cometer crimenes de odio
 - 🌱 Actualmente estoy estudiando ingenieria en software
 - 💞️ Busco colaborar con Giselle Montes o con SoogsX
-- 📫 Puedes encontrarme en twitter como...
+- 📫 Puedes encontrar mi twitter en mi perfil principal.
 
 <!---
 GooseCampagne/GooseCampagne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
