@@ -3,9 +3,6 @@
 **`Gustavo Campagne (Desarrollador/Darrollo de videojuegos/Creador)`**
 
 Mi nombre es Gustavo y actualmente estoy cursando la Ingeniería en Desarrollo y Gestión de Software. Me apasiona la tecnología, lo que me ha llevado a disfrutar de la programación. Me gusta encontrar soluciones simples a los problemas, siempre buscando la forma más eficiente de hacerlo. Mi curiosidad me lleva a aprender cosas nuevas y enfrentar retos que me permitan crecer. También he comenzado a incursionar en el desarrollo de videojuegos, utilizando Unity y C# para llevar mis ideas a la vida. Mi meta es seguir mejorando mis habilidades y contribuir a proyectos que hagan una diferencia.
-   <p align="left">
-         <img alt="followers" title="Sigueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   </p>
 
 ---
 
