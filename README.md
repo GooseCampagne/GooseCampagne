@@ -2,11 +2,11 @@
 
 **`Gustavo Campagne (Desarrollador/Darrollo de videojuegos/Creador)`**
 
-Mi nombre es Gustavo y actualmente estoy cursando la Ingeniería en Desarrollo y Gestión de Software. Me apasiona la tecnología, lo que me ha llevado a disfrutar de la programación. Me gusta encontrar soluciones simples a los problemas, siempre buscando la forma más eficiente de hacerlo. Mi curiosidad me lleva a aprender cosas nuevas y enfrentar retos que me permitan crecer. También he comenzado a incursionar en el desarrollo de videojuegos, utilizando Unity y C# para llevar mis ideas a la vida. Mi meta es seguir mejorando mis habilidades y contribuir a proyectos que hagan una diferencia.
+Mi nombre es Gustavo y actualmente estoy cursando la Ingeniería en Desarrollo y Gestión de Software. Me apasiona la tecnología, lo que me ha llevado a disfrutar de la programación. Me gusta encontrar soluciones simples a los problemas, siempre buscando la forma más eficiente de hacerlo. Mi curiosidad me lleva a aprender cosas nuevas y enfrentar retos que me permitan crecer. También he comenzado a incursionar en el desarrollo de videojuegos, utilizando Unity y C# para llevar mis ideas a la vida. Mi meta es seguir mejorando mis habilidades y contribuir a proyectos que hagan me pongan un reto.
 
 ---
 
-### 🧰 Lenguajes de programación
+### 🧰 Lenguajes de programación 🧰
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
