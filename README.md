@@ -1,4 +1,4 @@
-# 🐻 GooseCampagne 🐻
+# 🐻 GooseCampagne 
 
 **`Gustavo Campagne (Developer/Game Developer/Creator)`**
 
