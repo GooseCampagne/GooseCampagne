@@ -1,6 +1,6 @@
 # 🐻 GooseCampagne 
 
-**`Gustavo Campagne (Developer/Game Developer/Creator)`**
+**`Gustavo Campagne (Developer/Game Developer)`**
 
 My name is Gustavo, and I am currently doing a degree in Software Development and Management Engineering. I am passionate about technology, which has led me to enjoy programming. I love finding simple solutions to problems, always seeking the most efficient way to approach them. My curiosity drives me to learn new things and tackle challenges that help me grow. I have also started exploring video game development, using Unity and C# to bring my ideas to life. My goal is to continue improving my skills and contributing to projects that challenge me.
 
